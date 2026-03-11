@@ -1,5 +1,0 @@
-threshold=0.4181
-criterio=F2-score (recall pesa doble que precision)
-recall=0.7383
-precision=0.1544
-f2=0.4203
