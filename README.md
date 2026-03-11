@@ -9,9 +9,7 @@
 
 ## Dashboard
 
-![Dashboard — Intro](reports/figures/dashboard_intro.png)
-![Dashboard — Model](reports/figures/dashboard_modelo.png)
-![Dashboard — ROC/PR Curves](reports/figures/dashboard_curvas.png)
+> Live demo: [link de Streamlit Cloud — próximamente]
 
 ---
 
