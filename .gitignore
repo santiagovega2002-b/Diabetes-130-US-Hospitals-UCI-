@@ -3,7 +3,7 @@
 
 # datos crudos y procesados (pesan mucho)
 data/raw/
-data/processed/
+
 
 # modelo serializado (puede pesar)
 models/
