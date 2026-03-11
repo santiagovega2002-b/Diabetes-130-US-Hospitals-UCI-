@@ -1,0 +1,25 @@
+# entorno virtual
+.venv/
+
+# datos crudos y procesados (pesan mucho)
+data/raw/
+data/processed/
+
+# modelo serializado (puede pesar)
+models/
+
+# codeviz y otros artefactos
+.codeviz/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# jupyter checkpoints
+.ipynb_checkpoints/
+
+# sistema
+.DS_Store
+Thumbs.db
