@@ -9,7 +9,7 @@
 
 ## Dashboard
 
-> Live demo: [link de Streamlit Cloud — próximamente]
+> Live demo: [[link de Streamlit Cloud ](https://diabetesvega.streamlit.app/)]
 
 ---
 
